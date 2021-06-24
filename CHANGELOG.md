@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/serverless-tencent/serverless-warmer/compare/v0.1.0...v0.1.1) (2021-06-24)
+
+
+### Bug Fixes
+
+* update command & README ([6a68b74](https://github.com/serverless-tencent/serverless-warmer/commit/6a68b74f6d5ef638e1f8558cf4fbd9780135064e))
+
 # [0.1.0](https://github.com/serverless-tencent/serverless-warmer/compare/v0.0.1...v0.1.0) (2021-06-24)
 
 
