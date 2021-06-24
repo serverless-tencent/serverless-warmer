@@ -45,7 +45,7 @@ class Sls {
     }
   }
 
-  async warmUp({ app = '', stage = 'dev', name = '', org='' }: WarmOptions): Promise<boolean> {
+  async warmUp({ app = '', stage = 'dev', name = '', org = '' }: WarmOptions): Promise<boolean> {
     // 1. get instance
     const faas = new Faas({
       secretId: this.capi.options.SecretId,

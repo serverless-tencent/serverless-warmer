@@ -11,4 +11,3 @@ export interface Credential {
   token?: string;
   region?: string;
 }
-
