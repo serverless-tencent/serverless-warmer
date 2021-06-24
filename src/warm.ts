@@ -60,8 +60,7 @@ export async function warm(options: WarmOptions): Promise<boolean> {
 
 const warmCommand = (): void => {
   program
-    .command('warm')
-    .description('Warm up serverless application')
+    .description('Warm up serverless application or function')
     .option('-r, --region [region]', 'region of function', 'ap-guangzhou')
     .option('-n, --name [name]', 'name config in serverless.yml')
     .option('-a, --app [app]', 'app name')
