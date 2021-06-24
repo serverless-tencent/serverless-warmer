@@ -11,7 +11,7 @@ Application Warmer for Serverless Framework.
 ## Installation
 
 ```bash
-$ npm i @slsplus/warm -g
+$ npm i @slsplus/warmer -g
 ```
 
 ## Usage
