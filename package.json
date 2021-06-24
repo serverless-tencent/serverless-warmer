@@ -1,6 +1,6 @@
 {
   "name": "@slsplus/warmer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Serverless application warmer",
   "main": "./dist/index.js",
   "bin": {
